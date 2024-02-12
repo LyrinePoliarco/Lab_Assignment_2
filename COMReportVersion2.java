@@ -31,9 +31,4 @@ public class COMReportVersion2 {
             System.out.println(); // Blank line between block sections
         }
     }
-
-    private static BlockSection[] getBlockSectionList() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'getBlockSectionList'");
-    }
 }
